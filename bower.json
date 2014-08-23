@@ -1,0 +1,29 @@
+{
+  "name": "angular-packery",
+  "description": "An AngularJS directive for Packery.",
+  "version": "0.1.0",
+  "main": "./angular-packery.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "src",
+    "*.min.js",
+    "*.conf.js",
+    "*.html",
+    "Gruntfile.js",
+    "package.json"
+  ],
+  "dependencies": {
+    "packery": "~1.2.4",
+    "angular": "~1.2.0",
+    "jquery": "~2.1.0",
+    "imagesloaded": "~3.1.0"
+  },
+  "devDependencies": {
+    "angular-mocks": "~1.2.0",
+    "sinonjs": "~1.10.0",
+    "jasmine-sinon": "~0.3.0"
+  }
+}
