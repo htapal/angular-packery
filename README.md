@@ -136,8 +136,8 @@ Equivalent to:
 ## Credits
 
 The directive is based on
-[a StackOverflow question](http://stackoverflow.com/questions/16504151/packery-with-angularjs)
-answered by James Sharp.
+[angular-masonry](https://github.com/passy/angular-masonry)
+by Pascal Hartig
 
 
 ## Contributing
