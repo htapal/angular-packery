@@ -4,14 +4,12 @@ An [AngularJS](http://angularjs.org/) directive to work with David Desandro's [P
 
 ## Usage
 
-1. `bower install --save angular-packery`
+1. `bower install --save git@github.com:htapal/angular-packery.git`
 2. Add `wu.packery` to your application's module dependencies.
 2. Include dependencies in your HTML.
 3. Use the `packery` directive.
 
 ## Example
-
-See the [homepage](http://passy.github.io/angular-packery) for a live example.
 
 ```html
 <div packery>
